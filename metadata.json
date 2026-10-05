@@ -1,0 +1,6 @@
+{
+  "name": "Android",
+  "description": "Pure authentic Android Pixel and Material You out-of-the-box experience with Setup Wizard, Lock Screen, and Home Screen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
